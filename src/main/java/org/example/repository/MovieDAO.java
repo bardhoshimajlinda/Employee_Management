@@ -1,4 +1,6 @@
-package org.example.model;
+package org.example.repository;
+
+import org.example.model.Movie;
 
 import java.util.List;
 import java.util.Optional;

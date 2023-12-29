@@ -1,8 +1,7 @@
 package org.example.repository;
 
-import org.example.model.DatabaseActionException;
+import org.example.exception.DatabaseActionException;
 import org.example.model.Movie;
-import org.example.model.MovieDAO;
 
 import java.sql.*;
 import java.util.ArrayList;
